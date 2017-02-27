@@ -4,6 +4,7 @@ from sys import argv
 from zipfile import ZipFile
 from random import randint
 
+
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.markers
